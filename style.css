@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    text-align: center;
+    text-align: start;
     margin-top: 50px;
     background-color: #f2f2f2;
 }
@@ -21,3 +21,4 @@ button {
 button:hover {
     background-color: #2980b9;
 }
+
